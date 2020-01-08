@@ -1,2 +1,2 @@
-# Simple Trading Strategy that made ~2500% in Profits
+# Simple Trading Strategy that made ~10900% in Profits!
 Optimized, Pythonic code from Markus Rene Pae's [article](https://medium.com/swlh/build-a-trading-simulator-in-python-ebe046949dd9) in The Startup publication.

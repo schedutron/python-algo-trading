@@ -85,7 +85,7 @@ def simulation():
     interestlst = series[series > 100].index.tolist()
     sell()
     if interestlst:
-        money_to_allocate = money / (2*len(interestlst))
+        money_to_allocate = money / len(interestlst)
         buy(interestlst, money_to_allocate)
 
 
